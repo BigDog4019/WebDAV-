@@ -1,0 +1,19 @@
+From b202f6d053ab7e3940ee645d22ed85047fd6e886 Mon Sep 17 00:00:00 2001
+From: Jarrod Robinson <jarrod.robinson7@icloud.com>
+Date: Sun, 3 Nov 2019 02:32:58 -0500
+Subject: [PATCH] findinformation
+
+GCDWebServer/GCDWebDAVServer/GCDWebDAVServer.m
+---
+ Edit later | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Edit later
+
+diff --git a/Edit later b/Edit later
+new file mode 100644
+index 0000000..e69de29
+--- /dev/null
++++ b/Edit later
+--
+Working Copy 3.9.5
+
